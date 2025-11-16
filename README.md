@@ -29,9 +29,3 @@ This site uses Bootstrap 5 for:
 Bootstrap 5.3.0-alpha2 is loaded via CDN from jsDelivr.
 
 To enable dark mode, add `data-bs-theme="dark"` to the `<html>` tag.
-
-## Files
-
-- `index.html` - Main website
-- `style.css` - Custom styles
-- `website-text.txt` - Content reference
